@@ -1,7 +1,5 @@
 # Vishnu Karpuram
 
-I build software with local AI models and private data. My projects cover memory, audio, reading, and developer tools.
-
 ## Selected work
 
 - **[LMStash](https://github.com/skipauthenticate/lmstash)** — A local-first memory system for AI tools, with search, citations, and privacy controls.

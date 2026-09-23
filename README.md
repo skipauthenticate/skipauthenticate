@@ -1,5 +1,3 @@
-# Vishnu Karpuram
-
 ## Selected work
 
 - **[LMStash](https://github.com/skipauthenticate/lmstash)** — A local-first memory system for AI tools, with search, citations, and privacy controls.
